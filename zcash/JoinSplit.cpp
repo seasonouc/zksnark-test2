@@ -18,7 +18,7 @@
 #include "sync.h"
 #include "amount.h"
 //
-#include "librustzcash.h"
+//#include "librustzcash.h"
 #include "streams.h"
 #include "version.h"
 
